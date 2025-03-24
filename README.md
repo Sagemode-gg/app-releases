@@ -1,6 +1,6 @@
 # Sagemode - Your League of Legends Companion
 
-![In-game View](images/ingame.png)
+<img src="images/ingame.png" width="500" alt="In-game View">
 
 Sagemode is an AI-powered companion for League of Legends that provides real-time guidance, recommendations, and insights to help improve your gameplay.
 
@@ -9,17 +9,17 @@ Sagemode is an AI-powered companion for League of Legends that provides real-tim
 ### Real-time In-game Assistance
 Get contextual advice during your matches to make better decisions and improve your performance.
 
-![In-game Messages](images/ingame_message.png)
+<img src="images/ingame_message.png" width="400" alt="In-game Messages">
 
 ### Recommended Items
 Receive personalized item recommendations based on your champion, role, and the current match situation.
 
-![Recommended Items](images/recommended_items.png)
+<img src="images/recommended_items.png" width="400" alt="Recommended Items">
 
 ### Level and Power Comparison
 See how you compare against your lane opponent and track your advantages or disadvantages.
 
-![Level Comparison](images/level_comparison.png)
+<img src="images/level_comparison.png" width="400" alt="Level Comparison">
 
 ## Installation
 
